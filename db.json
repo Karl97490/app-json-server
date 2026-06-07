@@ -1,8 +1,99 @@
 {
-  "COLLECTION_NAME_HERE": [
+  "sandwiches": [
     {
-      "id": "1234",
-      "KEY_HERE": "VALUE_HERE"
+      "id": "S1",
+      "name": "The classical Jambon Beurre",
+      "nickname": "The Parisien",
+      "location": {
+        "country": "France",
+        "city": "Paris"
+      },
+      "ingredients": {
+        "lettuce": null,
+        "cheese": null,
+        "meat": "ham",
+        "vegies": null,
+        "sauce": "butter"
+      },
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iuLZmREWj-Fc7V5Xw2w8mCFxmKlTn4qq-Q&s",
+      "description": "A traditional Parisian sandwich made with a baguette, butter, and Paris ham.",
+      "breadId": "B1"
+    },
+    {
+      "id": "S2",
+      "name": "Croque-Monsieur",
+      "nickname": null,
+      "location": {
+        "country": "France",
+        "city": "Paris"
+      },
+      "ingredients": {
+        "lettuce": null,
+        "cheese": "emmental/gruyere",
+        "meat": "Ham",
+        "vegies": "egg or not",
+        "sauce": "butter"
+      },
+      "image": "https://assets.afcdn.com/recipe/20170112/28965_w1024h1024c1cx1500cy1000.webp",
+      "description": "The croque-monsieur or croquemonsieur is a french 'snack' with slices of white bread stuffed with thinly slices ham and emmental or gruyere, often dipped into egg batter, buttered and pan fired. For 'Mesdames' you got the Corque-madame, a variant served with fried egg atop the sandwich.",
+      "breadId": "B3"
+    },
+    {
+      "id": "S3",
+      "name": "Montreal Smoked Meat",
+      "nickname": null,
+      "location": {
+        "country": "Canada",
+        "city": "Montreal"
+      },
+      "ingredients": {
+        "lettuce": null,
+        "cheese": null,
+        "meat": "smoked meat",
+        "vegies": null,
+        "sauce": "mustard"
+      },
+      "image": "https://www.tasteatlas.com/images/dishes/c379c47f844049459b3eb91be37cab1f.jpg?mw=1300",
+      "description": "The best briskets used in a true Montreal smoked meat sandwich are said to soak for up to two weeks in brine and savory aromatics such as coriander, peppercorn and garlic before being smoked and hand-sliced to go down in eternal sandwich glory.",
+      "breadId": "B4"
+    }
+  ],
+  "breads": [
+    {
+      "id": "B1",
+      "name": "The French Baguette",
+      "type": "Baguette",
+      "origin": "France",
+      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0022_baguette.jpg",
+      "ingredients": [],
+      "description": "Délicieux !"
+    },
+    {
+      "id": "B2",
+      "name": "Brioche Bun",
+      "type": "Brioche",
+      "origin": "France",
+      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0020_brioche.jpg",
+      "ingredients": [],
+      "description": "Sonctueux !"
+    },
+    {
+      "id": "B3",
+      "name": "White Bread",
+      "type": "Wheat flour",
+      "origin": "Ancient Egypt",
+      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0001_white.jpg",
+      "ingredients": [],
+      "description": "Useful !"
+    },
+    {
+      "id": "B4",
+      "name": "Rye Bread",
+      "type": "Wheat flour",
+      "origin": "Europe",
+      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0004_rye.jpg",
+      "ingredients": [],
+      "description": "Nice !"
     }
   ]
 }
