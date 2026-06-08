@@ -29,9 +29,9 @@
       },
       "ingredients": {
         "lettuce": null,
-        "cheese": "emmental/gruyere",
-        "meat": "Ham",
-        "vegies": "egg or not",
+        "cheese": "emmental",
+        "meat": "ham",
+        "vegies": "egg",
         "sauce": "butter"
       },
       "image": "https://assets.afcdn.com/recipe/20170112/28965_w1024h1024c1cx1500cy1000.webp",
