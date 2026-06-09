@@ -17,6 +17,14 @@
       },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iuLZmREWj-Fc7V5Xw2w8mCFxmKlTn4qq-Q&s",
       "description": "A traditional Parisian sandwich made with a baguette, butter, and Paris ham.",
+      "comments": [
+        {
+          "id": "C1",
+          "content": "Super nice I love this one!",
+          "created_date": "09/06/2026",
+          "userId": "U1"
+        }
+      ],
       "breadId": "B1"
     },
     {
@@ -176,7 +184,7 @@
       "name": "Country Wheat Baguette",
       "type": "Baguette",
       "origin": "France",
-      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0022_baguette.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMZ5uD9WoBBToQJyN3dC7RxJJDDwTSFv-7Q&s",
       "ingredients": [],
       "description": "A versatile artisan bread commonly used for sandwiches and bakery specialties."
     },
@@ -185,7 +193,7 @@
       "name": "Rustic Lyonnais Loaf",
       "type": "Rustic Bread",
       "origin": "France",
-      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0022_baguette.jpg",
+      "image": "https://bewitchingkitchen.com/wp-content/uploads/2024/09/cour3.jpg",
       "ingredients": [],
       "description": "A hearty bread with a rustic texture and balanced flavor suitable for a variety of fillings."
     },
@@ -194,7 +202,7 @@
       "name": "Belgian Sandwich Roll",
       "type": "Roll",
       "origin": "Belgium",
-      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0022_baguette.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbtEgm6_GLc9ZPIHH1EDgOXoD6grJmwT6iIg&s",
       "ingredients": [],
       "description": "A soft and reliable sandwich bread designed to complement both meat and vegetable fillings."
     },
@@ -203,7 +211,7 @@
       "name": "Mediterranean Bakery Bread",
       "type": "Baguette",
       "origin": "France",
-      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0022_baguette.jpg",
+      "image": "https://pikan.co/cdn/shop/products/akdeniz2.jpg?v=1665060358",
       "ingredients": [],
       "description": "A light and flavorful bread with a crisp exterior, ideal for fresh sandwich preparations."
     }
