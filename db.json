@@ -56,6 +56,82 @@
       "image": "https://www.tasteatlas.com/images/dishes/c379c47f844049459b3eb91be37cab1f.jpg?mw=1300",
       "description": "The best briskets used in a true Montreal smoked meat sandwich are said to soak for up to two weeks in brine and savory aromatics such as coriander, peppercorn and garlic before being smoked and hand-sliced to go down in eternal sandwich glory.",
       "breadId": "B4"
+    },
+    {
+      "id": "S4",
+      "name": "Poulet Crudités",
+      "nickname": null,
+      "location": {
+        "country": "France",
+        "city": "Lyon"
+      },
+      "ingredients": {
+        "lettuce": "salad",
+        "cheese": null,
+        "meat": "chicken",
+        "vegies": "carrot",
+        "sauce": "mayonnaise"
+      },
+      "image": "https://www.quaidespains.com/1/1A3236C95C5E02FF3A1EF58F1A544772/1034093/900/100/sandwich_crudites_poulet.jpg",
+      "description": "A fresh sandwich filled with chicken, shredded carrots and lettuce, commonly found in French bakeries.",
+      "breadId": "B5"
+    },
+    {
+      "id": "S5",
+      "name": "Americain",
+      "nickname": null,
+      "location": {
+        "country": "Belgium",
+        "city": "Brussels"
+      },
+      "ingredients": {
+        "lettuce": "salad",
+        "cheese": "emmental",
+        "meat": "beef",
+        "vegies": "tomato",
+        "sauce": "ketchup"
+      },
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD6HM3Ilz6omYD2r9zY0DGWIqlFYAW_oQEjQ&s",
+      "description": "A hearty baguette sandwich inspired by Belgian street food, filled with beef, cheese and fresh vegetables.",
+      "breadId": "B6"
+    },
+    {
+      "id": "S6",
+      "name": "Thon Crudités",
+      "nickname": "Le Marin",
+      "location": {
+        "country": "France",
+        "city": "Marseille"
+      },
+      "ingredients": {
+        "lettuce": "salad",
+        "cheese": null,
+        "meat": null,
+        "vegies": "tomato",
+        "sauce": "mayonnaise"
+      },
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTwTKbcqM0o1gPGecS0rD_7bojgSvyvxGBg&s",
+      "description": "A bakery favorite featuring tuna, fresh vegetables and mayonnaise in a crispy baguette.",
+      "breadId": "B7"
+    },
+    {
+      "id": "S7",
+      "name": "Poulet Emmental",
+      "nickname": null,
+      "location": {
+        "country": "France",
+        "city": "Bordeaux"
+      },
+      "ingredients": {
+        "lettuce": "salad",
+        "cheese": "emmental",
+        "meat": "chicken",
+        "vegies": "tomato",
+        "sauce": "mayonnaise"
+      },
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKaXfyHdzCGrTcsjOZEx6mi9h5XBMzKPXRLA&s",
+      "description": "A balanced sandwich combining chicken, emmental cheese, lettuce and tomato inside a traditional French baguette.",
+      "breadId": "B8"
     }
   ],
   "breads": [
@@ -94,6 +170,42 @@
       "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0004_rye.jpg",
       "ingredients": [],
       "description": "Nice !"
+    },
+    {
+      "id": "B5",
+      "name": "Country Wheat Baguette",
+      "type": "Baguette",
+      "origin": "France",
+      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0022_baguette.jpg",
+      "ingredients": [],
+      "description": "A versatile artisan bread commonly used for sandwiches and bakery specialties."
+    },
+    {
+      "id": "B6",
+      "name": "Rustic Lyonnais Loaf",
+      "type": "Rustic Bread",
+      "origin": "France",
+      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0022_baguette.jpg",
+      "ingredients": [],
+      "description": "A hearty bread with a rustic texture and balanced flavor suitable for a variety of fillings."
+    },
+    {
+      "id": "B7",
+      "name": "Belgian Sandwich Roll",
+      "type": "Roll",
+      "origin": "Belgium",
+      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0022_baguette.jpg",
+      "ingredients": [],
+      "description": "A soft and reliable sandwich bread designed to complement both meat and vegetable fillings."
+    },
+    {
+      "id": "B8",
+      "name": "Mediterranean Bakery Bread",
+      "type": "Baguette",
+      "origin": "France",
+      "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0022_baguette.jpg",
+      "ingredients": [],
+      "description": "A light and flavorful bread with a crisp exterior, ideal for fresh sandwich preparations."
     }
   ]
 }
