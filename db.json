@@ -17,14 +17,7 @@
       },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iuLZmREWj-Fc7V5Xw2w8mCFxmKlTn4qq-Q&s",
       "description": "A traditional Parisian sandwich made with a baguette, butter, and Paris ham.",
-      "comments": [
-        {
-          "id": "C1",
-          "content": "Super nice I love this one!",
-          "created_date": "09/06/2026",
-          "userId": "U1"
-        }
-      ],
+      "avg_likes": 0,
       "breadId": "B1"
     },
     {
@@ -214,6 +207,15 @@
       "image": "https://pikan.co/cdn/shop/products/akdeniz2.jpg?v=1665060358",
       "ingredients": [],
       "description": "A light and flavorful bread with a crisp exterior, ideal for fresh sandwich preparations."
+    }
+  ],
+  "comments": [
+    {
+      "id": "C1",
+      "author": "Karl",
+      "content": "Super, nice I love this one!",
+      "created_date": "09/06/2026",
+      "sandwichId": "S1"
     }
   ]
 }
