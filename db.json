@@ -15,9 +15,13 @@
         "vegies": null,
         "sauce": "butter"
       },
+      "votes": {
+        "likes": 124,
+        "unlikes": 12,
+        "avg_like": 10.3
+      },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iuLZmREWj-Fc7V5Xw2w8mCFxmKlTn4qq-Q&s",
       "description": "A traditional Parisian sandwich made with a baguette, butter, and Paris ham.",
-      "avg_likes": 0,
       "breadId": "B1"
     },
     {
@@ -34,6 +38,11 @@
         "meat": "ham",
         "vegies": "egg",
         "sauce": "butter"
+      },
+      "votes": {
+        "likes": 124,
+        "unlikes": 12,
+        "avg_like": 10.3
       },
       "image": "https://assets.afcdn.com/recipe/20170112/28965_w1024h1024c1cx1500cy1000.webp",
       "description": "The croque-monsieur or croquemonsieur is a french 'snack' with slices of white bread stuffed with thinly slices ham and emmental or gruyere, often dipped into egg batter, buttered and pan fired. For 'Mesdames' you got the Corque-madame, a variant served with fried egg atop the sandwich.",
@@ -54,6 +63,11 @@
         "vegies": null,
         "sauce": "mustard"
       },
+      "votes": {
+        "likes": 124,
+        "unlikes": 12,
+        "avg_like": 10.3
+      },
       "image": "https://www.tasteatlas.com/images/dishes/c379c47f844049459b3eb91be37cab1f.jpg?mw=1300",
       "description": "The best briskets used in a true Montreal smoked meat sandwich are said to soak for up to two weeks in brine and savory aromatics such as coriander, peppercorn and garlic before being smoked and hand-sliced to go down in eternal sandwich glory.",
       "breadId": "B4"
@@ -72,6 +86,11 @@
         "meat": "chicken",
         "vegies": "carrot",
         "sauce": "mayonnaise"
+      },
+      "votes": {
+        "likes": 124,
+        "unlikes": 12,
+        "avg_like": 10.3
       },
       "image": "https://www.quaidespains.com/1/1A3236C95C5E02FF3A1EF58F1A544772/1034093/900/100/sandwich_crudites_poulet.jpg",
       "description": "A fresh sandwich filled with chicken, shredded carrots and lettuce, commonly found in French bakeries.",
@@ -92,6 +111,11 @@
         "vegies": "tomato",
         "sauce": "ketchup"
       },
+      "votes": {
+        "likes": 124,
+        "unlikes": 12,
+        "avg_like": 10.3
+      },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD6HM3Ilz6omYD2r9zY0DGWIqlFYAW_oQEjQ&s",
       "description": "A hearty baguette sandwich inspired by Belgian street food, filled with beef, cheese and fresh vegetables.",
       "breadId": "B6"
@@ -110,6 +134,11 @@
         "meat": null,
         "vegies": "tomato",
         "sauce": "mayonnaise"
+      },
+      "votes": {
+        "likes": 124,
+        "unlikes": 12,
+        "avg_like": 10.3
       },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTwTKbcqM0o1gPGecS0rD_7bojgSvyvxGBg&s",
       "description": "A bakery favorite featuring tuna, fresh vegetables and mayonnaise in a crispy baguette.",
@@ -130,9 +159,38 @@
         "vegies": "tomato",
         "sauce": "mayonnaise"
       },
+      "votes": {
+        "likes": 124,
+        "unlikes": 12,
+        "avg_like": 10.3
+      },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKaXfyHdzCGrTcsjOZEx6mi9h5XBMzKPXRLA&s",
       "description": "A balanced sandwich combining chicken, emmental cheese, lettuce and tomato inside a traditional French baguette.",
       "breadId": "B8"
+    },
+    {
+      "name": "Test",
+      "nickname": null,
+      "location": {
+        "country": null,
+        "city": null
+      },
+      "ingredients": {
+        "lettuce": null,
+        "cheese": null,
+        "meat": null,
+        "vegies": null,
+        "sauce": null
+      },
+      "votes": {
+        "likes": 0,
+        "unlikes": 0,
+        "avg_like": 0
+      },
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2IhYauSkWSHOi8sApOhS4324lrXdo10Nh0g&s",
+      "description": null,
+      "breadId": "B5",
+      "id": "UaB-qtX"
     }
   ],
   "breads": [
