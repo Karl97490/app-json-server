@@ -213,9 +213,30 @@
     {
       "id": "C1",
       "author": "Karl",
-      "content": "Super, nice I love this one!",
+      "comment": "Super, nice I love this one!",
       "created_date": "09/06/2026",
       "sandwichId": "S1"
+    },
+    {
+      "id": "C2",
+      "author": "Karl",
+      "comment": "Super cool",
+      "created_date": "09/06/2026",
+      "sandwichId": "S1"
+    },
+    {
+      "id": "C3",
+      "author": "Karl",
+      "comment": "Not bad",
+      "created_date": "09/06/2026",
+      "sandwichId": "S1"
+    },
+    {
+      "id": "C4",
+      "author": "Karl",
+      "comment": "Don't like it",
+      "created_date": "09/06/2026",
+      "sandwichId": "S2"
     }
   ]
 }
