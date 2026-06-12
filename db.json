@@ -2,7 +2,7 @@
   "sandwiches": [
     {
       "id": "S1",
-      "name": "The classical Jambon Beurre",
+      "name": "The Classical Jambon-Beurre",
       "nickname": "The Parisien",
       "location": {
         "country": "France",
@@ -11,9 +11,9 @@
       "ingredients": {
         "lettuce": null,
         "cheese": null,
-        "meat": "ham",
+        "meat": "Paris ham",
         "vegies": null,
-        "sauce": "butter"
+        "sauce": "salted butter"
       },
       "votes": {
         "likes": 124,
@@ -21,13 +21,13 @@
         "avg_like": 10.3
       },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iuLZmREWj-Fc7V5Xw2w8mCFxmKlTn4qq-Q&s",
-      "description": "A traditional Parisian sandwich made with a baguette, butter, and Paris ham.",
+      "description": "A timeless Parisian classic featuring a crisp French baguette generously spread with salted butter and filled with delicate slices of Paris ham. Simple, elegant, and considered one of the most iconic sandwiches in France.",
       "breadId": "B1"
     },
     {
       "id": "S2",
       "name": "Croque-Monsieur",
-      "nickname": null,
+      "nickname": "The Café Classic",
       "location": {
         "country": "France",
         "city": "Paris"
@@ -36,8 +36,8 @@
         "lettuce": null,
         "cheese": "emmental",
         "meat": "ham",
-        "vegies": "egg",
-        "sauce": "butter"
+        "vegies": null,
+        "sauce": "béchamel"
       },
       "votes": {
         "likes": 124,
@@ -45,13 +45,13 @@
         "avg_like": 10.3
       },
       "image": "https://assets.afcdn.com/recipe/20170112/28965_w1024h1024c1cx1500cy1000.webp",
-      "description": "The croque-monsieur or croquemonsieur is a french 'snack' with slices of white bread stuffed with thinly slices ham and emmental or gruyere, often dipped into egg batter, buttered and pan fired. For 'Mesdames' you got the Corque-madame, a variant served with fried egg atop the sandwich.",
+      "description": "A beloved French bistro specialty made with toasted bread, premium ham, melted Emmental cheese, and a creamy béchamel sauce. Crispy on the outside and irresistibly rich on the inside.",
       "breadId": "B3"
     },
     {
       "id": "S3",
       "name": "Montreal Smoked Meat",
-      "nickname": null,
+      "nickname": "The Canadian Legend",
       "location": {
         "country": "Canada",
         "city": "Montreal"
@@ -59,9 +59,9 @@
       "ingredients": {
         "lettuce": null,
         "cheese": null,
-        "meat": "smoked meat",
+        "meat": "smoked brisket",
         "vegies": null,
-        "sauce": "mustard"
+        "sauce": "yellow mustard"
       },
       "votes": {
         "likes": 124,
@@ -69,22 +69,22 @@
         "avg_like": 10.3
       },
       "image": "https://www.tasteatlas.com/images/dishes/c379c47f844049459b3eb91be37cab1f.jpg?mw=1300",
-      "description": "The best briskets used in a true Montreal smoked meat sandwich are said to soak for up to two weeks in brine and savory aromatics such as coriander, peppercorn and garlic before being smoked and hand-sliced to go down in eternal sandwich glory.",
+      "description": "An iconic Canadian sandwich piled high with hand-sliced smoked brisket that has been cured, seasoned, and slowly smoked for maximum flavor. Traditionally served on rye bread with a generous layer of mustard.",
       "breadId": "B4"
     },
     {
       "id": "S4",
       "name": "Poulet Crudités",
-      "nickname": null,
+      "nickname": "The Bakery Favorite",
       "location": {
         "country": "France",
         "city": "Lyon"
       },
       "ingredients": {
-        "lettuce": "salad",
+        "lettuce": "green salad",
         "cheese": null,
-        "meat": "chicken",
-        "vegies": "carrot",
+        "meat": "roasted chicken",
+        "vegies": "grated carrot",
         "sauce": "mayonnaise"
       },
       "votes": {
@@ -93,23 +93,23 @@
         "avg_like": 10.3
       },
       "image": "https://www.quaidespains.com/1/1A3236C95C5E02FF3A1EF58F1A544772/1034093/900/100/sandwich_crudites_poulet.jpg",
-      "description": "A fresh sandwich filled with chicken, shredded carrots and lettuce, commonly found in French bakeries.",
+      "description": "A fresh and satisfying sandwich commonly found in French bakeries, combining tender roasted chicken, crisp lettuce, grated carrots, and creamy mayonnaise inside a crunchy artisan baguette.",
       "breadId": "B5"
     },
     {
       "id": "S5",
-      "name": "Americain",
-      "nickname": null,
+      "name": "Américain",
+      "nickname": "The Brussels Special",
       "location": {
         "country": "Belgium",
         "city": "Brussels"
       },
       "ingredients": {
-        "lettuce": "salad",
+        "lettuce": "green salad",
         "cheese": "emmental",
-        "meat": "beef",
+        "meat": "seasoned beef",
         "vegies": "tomato",
-        "sauce": "ketchup"
+        "sauce": "cocktail sauce"
       },
       "votes": {
         "likes": 124,
@@ -117,7 +117,7 @@
         "avg_like": 10.3
       },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD6HM3Ilz6omYD2r9zY0DGWIqlFYAW_oQEjQ&s",
-      "description": "A hearty baguette sandwich inspired by Belgian street food, filled with beef, cheese and fresh vegetables.",
+      "description": "A popular Belgian sandwich loaded with seasoned beef, Emmental cheese, fresh tomatoes, and crunchy salad. Finished with a flavorful cocktail sauce for a rich and satisfying bite.",
       "breadId": "B6"
     },
     {
@@ -129,7 +129,7 @@
         "city": "Marseille"
       },
       "ingredients": {
-        "lettuce": "salad",
+        "lettuce": "green salad",
         "cheese": null,
         "meat": null,
         "vegies": "tomato",
@@ -141,23 +141,23 @@
         "avg_like": 10.3
       },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTwTKbcqM0o1gPGecS0rD_7bojgSvyvxGBg&s",
-      "description": "A bakery favorite featuring tuna, fresh vegetables and mayonnaise in a crispy baguette.",
+      "description": "A Mediterranean-inspired sandwich featuring tuna, fresh tomatoes, crisp salad, and creamy mayonnaise. Light yet flavorful, it is a staple in many bakeries along the French coast.",
       "breadId": "B7"
     },
     {
       "id": "S7",
       "name": "Poulet Emmental",
-      "nickname": null,
+      "nickname": "The Gourmet Chicken",
       "location": {
         "country": "France",
         "city": "Bordeaux"
       },
       "ingredients": {
-        "lettuce": "salad",
+        "lettuce": "green salad",
         "cheese": "emmental",
-        "meat": "chicken",
+        "meat": "grilled chicken",
         "vegies": "tomato",
-        "sauce": "mayonnaise"
+        "sauce": "light mayonnaise"
       },
       "votes": {
         "likes": 124,
@@ -165,32 +165,8 @@
         "avg_like": 10.3
       },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKaXfyHdzCGrTcsjOZEx6mi9h5XBMzKPXRLA&s",
-      "description": "A balanced sandwich combining chicken, emmental cheese, lettuce and tomato inside a traditional French baguette.",
+      "description": "A generous sandwich featuring grilled chicken breast, nutty Emmental cheese, ripe tomatoes, and crisp lettuce. A balanced combination of freshness and richness served on artisan bread.",
       "breadId": "B8"
-    },
-    {
-      "name": "Test",
-      "nickname": null,
-      "location": {
-        "country": null,
-        "city": null
-      },
-      "ingredients": {
-        "lettuce": null,
-        "cheese": null,
-        "meat": null,
-        "vegies": null,
-        "sauce": null
-      },
-      "votes": {
-        "likes": 0,
-        "unlikes": 0,
-        "avg_like": 0
-      },
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2IhYauSkWSHOi8sApOhS4324lrXdo10Nh0g&s",
-      "description": null,
-      "breadId": "B5",
-      "id": "UaB-qtX"
     }
   ],
   "breads": [
@@ -200,8 +176,13 @@
       "type": "Baguette",
       "origin": "France",
       "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0022_baguette.jpg",
-      "ingredients": [],
-      "description": "Délicieux !"
+      "ingredients": [
+        "Wheat Flour",
+        "Water",
+        "Salt",
+        "Yeast"
+      ],
+      "description": "The iconic French baguette features a crisp golden crust and a light, airy crumb. Its simple recipe highlights the quality of its ingredients, making it the perfect companion for sandwiches, cheese, and charcuterie."
     },
     {
       "id": "B2",
@@ -209,26 +190,45 @@
       "type": "Brioche",
       "origin": "France",
       "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0020_brioche.jpg",
-      "ingredients": [],
-      "description": "Sonctueux !"
+      "ingredients": [
+        "Wheat Flour",
+        "Butter",
+        "Eggs",
+        "Milk",
+        "Sugar",
+        "Yeast"
+      ],
+      "description": "Rich, buttery, and slightly sweet, the brioche bun is known for its soft texture and golden color. It is especially popular for gourmet burgers and premium sandwiches."
     },
     {
       "id": "B3",
       "name": "White Bread",
-      "type": "Wheat flour",
+      "type": "Wheat Flour",
       "origin": "Ancient Egypt",
       "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0001_white.jpg",
-      "ingredients": [],
-      "description": "Useful !"
+      "ingredients": [
+        "Refined Wheat Flour",
+        "Water",
+        "Yeast",
+        "Salt",
+        "Sugar"
+      ],
+      "description": "A classic everyday bread with a soft texture and mild flavor. White bread is one of the world's most widely consumed breads and serves as a versatile base for countless sandwich combinations."
     },
     {
       "id": "B4",
       "name": "Rye Bread",
-      "type": "Wheat flour",
+      "type": "Wheat Flour",
       "origin": "Europe",
       "image": "https://www.webstaurantstore.com/uploads/blog/2023/3/blog_bread_0004_rye.jpg",
-      "ingredients": [],
-      "description": "Nice !"
+      "ingredients": [
+        "Rye Flour",
+        "Wheat Flour",
+        "Water",
+        "Salt",
+        "Yeast"
+      ],
+      "description": "Made with rye flour, this bread offers a distinctive earthy flavor and dense texture. It pairs particularly well with smoked meats, cured fish, and strong cheeses."
     },
     {
       "id": "B5",
@@ -236,8 +236,14 @@
       "type": "Baguette",
       "origin": "France",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMZ5uD9WoBBToQJyN3dC7RxJJDDwTSFv-7Q&s",
-      "ingredients": [],
-      "description": "A versatile artisan bread commonly used for sandwiches and bakery specialties."
+      "ingredients": [
+        "Whole Wheat Flour",
+        "White Flour",
+        "Water",
+        "Salt",
+        "Yeast"
+      ],
+      "description": "This rustic French baguette combines whole wheat and white flour to create a deeper flavor profile. Its hearty crumb and crisp crust make it ideal for artisan sandwiches and picnic-style meals."
     },
     {
       "id": "B6",
@@ -245,8 +251,13 @@
       "type": "Rustic Bread",
       "origin": "France",
       "image": "https://bewitchingkitchen.com/wp-content/uploads/2024/09/cour3.jpg",
-      "ingredients": [],
-      "description": "A hearty bread with a rustic texture and balanced flavor suitable for a variety of fillings."
+      "ingredients": [
+        "Stone-Ground Flour",
+        "Water",
+        "Salt",
+        "Natural Sourdough Starter"
+      ],
+      "description": "Inspired by traditional bakeries around Lyon, this loaf features a robust crust and complex flavor developed through slow fermentation. It complements rich fillings and gourmet ingredients beautifully."
     },
     {
       "id": "B7",
@@ -254,8 +265,14 @@
       "type": "Roll",
       "origin": "Belgium",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbtEgm6_GLc9ZPIHH1EDgOXoD6grJmwT6iIg&s",
-      "ingredients": [],
-      "description": "A soft and reliable sandwich bread designed to complement both meat and vegetable fillings."
+      "ingredients": [
+        "Wheat Flour",
+        "Milk",
+        "Butter",
+        "Salt",
+        "Yeast"
+      ],
+      "description": "Soft, light, and easy to slice, this Belgian-style sandwich roll is designed to hold a variety of fillings while maintaining its shape. Its mild flavor makes it a versatile choice for everyday sandwiches."
     },
     {
       "id": "B8",
@@ -263,18 +280,17 @@
       "type": "Baguette",
       "origin": "France",
       "image": "https://pikan.co/cdn/shop/products/akdeniz2.jpg?v=1665060358",
-      "ingredients": [],
-      "description": "A light and flavorful bread with a crisp exterior, ideal for fresh sandwich preparations."
+      "ingredients": [
+        "Wheat Flour",
+        "Olive Oil",
+        "Water",
+        "Salt",
+        "Yeast"
+      ],
+      "description": "A light and aromatic bread inspired by Mediterranean baking traditions. Its crisp exterior and tender interior make it a refreshing option for sandwiches filled with vegetables, cheeses, and cured meats."
     }
   ],
   "comments": [
-    {
-      "id": "C1",
-      "author": "Karl",
-      "comment": "Super, nice I love this one!",
-      "created_date": "09/06/2026",
-      "sandwichId": "S1"
-    },
     {
       "id": "C2",
       "author": "Karl",
@@ -295,6 +311,13 @@
       "comment": "Don't like it",
       "created_date": "09/06/2026",
       "sandwichId": "S2"
+    },
+    {
+      "author": "New User",
+      "comment": "super comment\n",
+      "created_date": "09/06/2026",
+      "sandwichId": "S1",
+      "id": "PEzqKtG"
     }
   ]
 }
