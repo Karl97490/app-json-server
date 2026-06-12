@@ -40,9 +40,9 @@
         "sauce": "béchamel"
       },
       "votes": {
-        "likes": 124,
-        "unlikes": 12,
-        "avg_like": 10.3
+        "likes": 96,
+        "unlikes": 25,
+        "avg_like": 0
       },
       "image": "https://assets.afcdn.com/recipe/20170112/28965_w1024h1024c1cx1500cy1000.webp",
       "description": "A beloved French bistro specialty made with toasted bread, premium ham, melted Emmental cheese, and a creamy béchamel sauce. Crispy on the outside and irresistibly rich on the inside.",
@@ -64,9 +64,9 @@
         "sauce": "yellow mustard"
       },
       "votes": {
-        "likes": 124,
-        "unlikes": 12,
-        "avg_like": 10.3
+        "likes": 500,
+        "unlikes": 210,
+        "avg_like": 0
       },
       "image": "https://www.tasteatlas.com/images/dishes/c379c47f844049459b3eb91be37cab1f.jpg?mw=1300",
       "description": "An iconic Canadian sandwich piled high with hand-sliced smoked brisket that has been cured, seasoned, and slowly smoked for maximum flavor. Traditionally served on rye bread with a generous layer of mustard.",
@@ -112,9 +112,9 @@
         "sauce": "cocktail sauce"
       },
       "votes": {
-        "likes": 124,
-        "unlikes": 12,
-        "avg_like": 10.3
+        "likes": 365,
+        "unlikes": 90,
+        "avg_like": 0
       },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD6HM3Ilz6omYD2r9zY0DGWIqlFYAW_oQEjQ&s",
       "description": "A popular Belgian sandwich loaded with seasoned beef, Emmental cheese, fresh tomatoes, and crunchy salad. Finished with a flavorful cocktail sauce for a rich and satisfying bite.",
@@ -160,9 +160,9 @@
         "sauce": "light mayonnaise"
       },
       "votes": {
-        "likes": 124,
-        "unlikes": 12,
-        "avg_like": 10.3
+        "likes": 10,
+        "unlikes": 480,
+        "avg_like": 0
       },
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKaXfyHdzCGrTcsjOZEx6mi9h5XBMzKPXRLA&s",
       "description": "A generous sandwich featuring grilled chicken breast, nutty Emmental cheese, ripe tomatoes, and crisp lettuce. A balanced combination of freshness and richness served on artisan bread.",
@@ -292,32 +292,158 @@
   ],
   "comments": [
     {
-      "id": "C2",
+      "id": "C1",
       "author": "Karl",
-      "comment": "Super cool",
+      "comment": "Super cool 🥪 I really like the balance of flavors!",
+      "created_date": "09/06/2026",
+      "sandwichId": "S1"
+    },
+    {
+      "id": "C2",
+      "author": "Emma",
+      "comment": "Not bad at all, but I would add more sauce next time.",
       "created_date": "09/06/2026",
       "sandwichId": "S1"
     },
     {
       "id": "C3",
-      "author": "Karl",
-      "comment": "Not bad",
-      "created_date": "09/06/2026",
-      "sandwichId": "S1"
-    },
-    {
-      "id": "C4",
-      "author": "Karl",
-      "comment": "Don't like it",
+      "author": "Lucas",
+      "comment": "Don't like it that much, the bread feels a bit dry for me.",
       "created_date": "09/06/2026",
       "sandwichId": "S2"
     },
     {
-      "author": "New User",
-      "comment": "super comment\n",
+      "id": "C4",
+      "author": "Sofia",
+      "comment": "This is actually amazing 🤯 feels like something from a real bakery.",
       "created_date": "09/06/2026",
-      "sandwichId": "S1",
-      "id": "PEzqKtG"
+      "sandwichId": "S1"
+    },
+    {
+      "id": "C5",
+      "author": "Thomas",
+      "comment": "Very solid sandwich. Simple but effective 👍",
+      "created_date": "09/06/2026",
+      "sandwichId": "S2"
+    },
+    {
+      "id": "C6",
+      "author": "Marie",
+      "comment": "I love the idea! Would definitely order this in a shop.",
+      "created_date": "09/06/2026",
+      "sandwichId": "S3"
+    },
+    {
+      "id": "C7",
+      "author": "Alex",
+      "comment": "Too heavy for me, but still well made.",
+      "created_date": "09/06/2026",
+      "sandwichId": "S4"
+    },
+    {
+      "id": "C8",
+      "author": "New User",
+      "comment": "super comment 😄",
+      "created_date": "09/06/2026",
+      "sandwichId": "S1"
+    },
+    {
+      "id": "C9",
+      "author": "Nina",
+      "comment": "The ingredients combo is really creative!",
+      "created_date": "10/06/2026",
+      "sandwichId": "S5"
+    },
+    {
+      "id": "C10",
+      "author": "John",
+      "comment": "Feels fresh and homemade, I like it a lot.",
+      "created_date": "10/06/2026",
+      "sandwichId": "S6"
+    },
+    {
+      "author": "New User",
+      "comment": "Eww !!!!",
+      "created_date": "09/06/2026",
+      "sandwichId": "S4",
+      "id": "WIaLkGu"
+    },
+    {
+      "id": "C10",
+      "author": "Lina",
+      "comment": "Best sandwich I’ve seen here so far 🔥",
+      "created_date": "10/06/2026",
+      "sandwichId": "S1"
+    },
+    {
+      "id": "C11",
+      "author": "Hugo",
+      "comment": "Could use a bit more seasoning but still good.",
+      "created_date": "10/06/2026",
+      "sandwichId": "S2"
+    },
+    {
+      "id": "C12",
+      "author": "Chloé",
+      "comment": "I love the concept, very creative platform 👏",
+      "created_date": "10/06/2026",
+      "sandwichId": "S3"
+    },
+    {
+      "id": "C13",
+      "author": "Marc",
+      "comment": "Not my style but I can see why people like it.",
+      "created_date": "10/06/2026",
+      "sandwichId": "S4"
+    },
+    {
+      "id": "C14",
+      "author": "Emma",
+      "comment": "This would sell really well in a bakery!",
+      "created_date": "11/06/2026",
+      "sandwichId": "S5"
+    },
+    {
+      "id": "C15",
+      "author": "Yanis",
+      "comment": "Feels very authentic, love it 🥪",
+      "created_date": "11/06/2026",
+      "sandwichId": "S6"
+    },
+    {
+      "id": "C16",
+      "author": "Anna",
+      "comment": "The sauce really makes the difference here.",
+      "created_date": "11/06/2026",
+      "sandwichId": "S7"
+    },
+    {
+      "id": "C17",
+      "author": "Tom",
+      "comment": "Pretty good but a bit too simple for me.",
+      "created_date": "11/06/2026",
+      "sandwichId": "S1"
+    },
+    {
+      "id": "C18",
+      "author": "Sarah",
+      "comment": "I would definitely recommend this to friends 👍",
+      "created_date": "11/06/2026",
+      "sandwichId": "S2"
+    },
+    {
+      "id": "C19",
+      "author": "Leo",
+      "comment": "Great balance of textures and flavors!",
+      "created_date": "11/06/2026",
+      "sandwichId": "S3"
+    },
+    {
+      "id": "C20",
+      "author": "Maya",
+      "comment": "Looks delicious, I want to try it now 😋",
+      "created_date": "11/06/2026",
+      "sandwichId": "S4"
     }
   ]
 }
